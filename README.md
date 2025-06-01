@@ -31,7 +31,6 @@ Its truth table looks as such:​
 | True    | False   | False  |  
 | False   | True    | False  |  
 | False   | False   | False  |  
-| | | |  
 
 ​
 
@@ -47,7 +46,6 @@ Its truth table looks as such:​
 | :---: | :----: |  
 | True  | False  |  
 | False | True   |  
-| | |  
 
 ​  
 
@@ -65,7 +63,6 @@ Its truth table looks as such:​
 | True    | False   | True   |  
 | False   | True    | True   |  
 | False   | False   | False  |  
-| | | |  
 
 ​  
 
@@ -83,7 +80,6 @@ Its truth table looks as such:​
 | True    | False   | True   |  
 | False   | True    | True   |  
 | False   | False   | False  |  
-| | | |  
 
 ​
 
@@ -101,7 +97,6 @@ Its truth table looks as such:​
 | True    | False   | False  |  
 | False   | True    | False  |  
 | False   | False   | True   |  
-| | | |  
 
 ​  
 
@@ -119,6 +114,5 @@ Its truth table looks as such:​
 | True    | False   | True   |  
 | False   | True    | True   |  
 | False   | False   | True   |  
-| | | |  
 
 ## Physics owo  
